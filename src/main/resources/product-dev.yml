@@ -1,0 +1,4 @@
+app:
+  messages:
+    welcome: "Welcome to (DEV)!"
+    error: "Something went wrong in DEV!"
